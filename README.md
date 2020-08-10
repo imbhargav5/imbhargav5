@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bhargav Ponnapalli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A React.js/Vue/Svelte frontend developer from India</h3>
 
 - 🔭 I’m currently working on [awesome frontend courses for everyone](https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA).
 
