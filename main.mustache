@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/> Hi 👋, I'm Bhargav Ponnapalli</h1>
-<h3>A Fullstack Web Developer from India.</h3>
+<h2>A Fullstack Web Developer from India.</h3>
 
 <h3>Things I code with</h3>
 <p>
