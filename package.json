@@ -1,0 +1,11 @@
+{
+  "name": "imbhargav5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/imbhargav5/imbhargav5.git",
+  "author": "imbhargav5 <imbhargav5@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
