@@ -2,7 +2,7 @@
 
 {{{githubSummaryMarkdown}}}
 
-<h3>Top Contributions</h3>
+<h3>My Contributions</h3>
 
 <table>
   <thead align="center">
@@ -23,26 +23,12 @@
   </tbody>
 </table>
 
-<h4>Other Notable Contributions</h4>
+<h4>Other Contributions</h4>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Project</b></td>
-      <td><b>🎁 Description </b></td>
-      <td><b>⭐ Stars</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    {{#notableContributions}}
-    <tr>
-	    <td><a href="{{url}}"><b>{{owner.login}}/{{name}}</b></a></td>
-      <td>{{{description}}}</td>
-      <td>{{stargazers.totalCount}}</td>
-    </tr>	  
-    {{/notableContributions}}
-  </tbody>
-</table>
+{{#notableContributions}}
+  <a href="{{url}}"><b>{{owner.login}}/{{name}}</b></a> 
+{{/notableContributions}}
+
 
 <p align="left">
 <a href="https://twitter.com/imbhargav5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imbhargav5" height="20" width="20" /></a>
