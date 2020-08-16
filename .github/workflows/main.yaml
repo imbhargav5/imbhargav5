@@ -32,11 +32,11 @@ jobs:
           token: ${{ secrets.TOKEN }}
       - name: Get Github summary
         id: github-summary
-        uses: imbhargav5/actions/contentful-entry
+        uses: imbhargav5/actions/contentful-entry@master
         with:
           space: ${{ secrets.CONTENFUL_SPACE }}
           access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
-          args: '"5dlinQLBEavklJ2oIvcbWz"'          
+          args: "'5dlinQLBEavklJ2oIvcbWz'"         
       - name: Generate README file
         run: node action.js
         env:
