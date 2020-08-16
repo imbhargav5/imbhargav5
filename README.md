@@ -134,12 +134,6 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/rehooks-visibility-sensor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/rehooks-visibility-sensor?style=flat-square&labelColor=343b41"/></td>
     </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;dictionary-offline"><b>imbhargav5/dictionary-offline</b></a></td>
-      <td>A simple project that uses Service Workers and PouchDB for an offline experience.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/dictionary-offline?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/dictionary-offline?style=flat-square&labelColor=343b41"/></td>
-    </tr>	  
   </tbody>
 </table>
 
