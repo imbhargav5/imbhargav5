@@ -1,4 +1,4 @@
 require('dotenv').config();
 const main = require("./main");
-const token = process.env.GITHUB_TOKEN;
+const token = process.env.TOKEN;
 main(token);
