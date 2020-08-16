@@ -45,7 +45,7 @@ async function getTopContributions(token){
     const json = await response.json();
     const {topRepositories} = json.data.viewer;
     const EXCLUDE_OWNERS = ['theblitzapp']
-    const MIN_STAR_COUNT = 10
+    const MIN_STAR_COUNT = 11
     const filteredRepositories = topRepositories.nodes
         .filter(repository => !repository.isPrivate && repository.stargazers.totalCount >= MIN_STAR_COUNT && !EXCLUDE_OWNERS.includes(repository.owner.login))
         .sort((a,b)=> b.stargazers.totalCount - a.stargazers.totalCount)        
