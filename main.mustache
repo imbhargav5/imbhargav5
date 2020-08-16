@@ -2,6 +2,27 @@
 
 {{{githubSummaryMarkdown}}}
 
+<h3>Most Recent Blogposts</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Title</b></td>
+      <td><b>🎁 Tags </b></td>
+    </tr>
+  </thead>
+  <tbody>
+    {{#mostRecentBlogPosts}}
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/{{slug}}"><b>{{title}}</b></a></td>
+      <td>{{description}}</td>
+    </tr>	  
+    {{/mostRecentBlogPosts}}
+  </tbody>
+</table>
+
+<br/>
+
 <h3>My Contributions</h3>
 
 <table>
