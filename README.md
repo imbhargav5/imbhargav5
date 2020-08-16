@@ -10,7 +10,7 @@
 <img 
 alt="codementor"      src="images.ctfassets.net/zcbonpo0bw5g/5PSfhdW7N0Vf8KNHVMw0z2/8367bc6678cdca6ce63a47cdfb100486/Screenshot_2020-08-16_at_6.00.52_PM.png"/> 
 
-<p> I also teach frontend [here](https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA) at take up freelance work from time to time. You can reach me at **imbhargav5@gmail.com**.</p>
+<p> I also teach frontend <a href="https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA"  target="_blank">Here </a> at take up freelance work from time to time. You can also reach me via my website <a href="https://imbhargav5.com" target="_blank">here<a/>.</p>
 <br/>
 <p>One of my favorite hobbies is playing cricket and having a nice cup of masala tea. **Chai is my fuel.** <p>
 <br/>
