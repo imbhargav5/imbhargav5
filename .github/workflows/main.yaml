@@ -28,8 +28,8 @@ jobs:
       - name: Generate README file
         run: node action.js
         env:
-          TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
