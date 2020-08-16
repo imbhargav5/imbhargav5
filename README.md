@@ -44,7 +44,7 @@
 
 </p>
 
-<h3>Top Contributions</h3>
+<h3>My Contributions</h3>
 
 <table>
   <thead align="center">
@@ -88,59 +88,17 @@
   </tbody>
 </table>
 
-<h4>Other Notable Contributions</h4>
+<h4>Other Contributions</h4>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Project</b></td>
-      <td><b>🎁 Description </b></td>
-      <td><b>⭐ Stars</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview"><b>viraptor/reverse-interview</b></a></td>
-      <td>Questions to ask the company during your interview</td>
-      <td>15125</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next"><b>i18next/react-i18next</b></a></td>
-      <td>Internationalization for react done right. Using the i18next i18n ecosystem.</td>
-      <td>5380</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator"><b>rahuldkjain/github-profile-readme-generator</b></a></td>
-      <td>:rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.</td>
-      <td>868</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website"><b>kyma-project/website</b></a></td>
-      <td>Kyma landing page with blog, documentation and roadmap</td>
-      <td>59</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter"><b>imbhargav5/react-universal-starter</b></a></td>
-      <td>React@16, react-router@4, redux and webpack@4 starter project</td>
-      <td>43</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image"><b>imbhargav5/react-lazy-progressive-image</b></a></td>
-      <td>React Progressive images with Lazy loading :zap:</td>
-      <td>40</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin"><b>imbhargav5/armin</b></a></td>
-      <td>Declarative state machines for React!</td>
-      <td>19</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor"><b>imbhargav5/rehooks-visibility-sensor</b></a></td>
-      <td>Checks whether a Ref has scrolled into view or not.</td>
-      <td>13</td>
-    </tr>	  
-  </tbody>
-</table>
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview"><b>viraptor/reverse-interview</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next"><b>i18next/react-i18next</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator"><b>rahuldkjain/github-profile-readme-generator</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website"><b>kyma-project/website</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter"><b>imbhargav5/react-universal-starter</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image"><b>imbhargav5/react-lazy-progressive-image</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin"><b>imbhargav5/armin</b></a> 
+  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor"><b>imbhargav5/rehooks-visibility-sensor</b></a> 
+
 
 <p align="left">
 <a href="https://twitter.com/imbhargav5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imbhargav5" height="20" width="20" /></a>
