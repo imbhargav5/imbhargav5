@@ -44,6 +44,37 @@
 
 </p>
 
+<h3>Most Recent Blogposts</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Title</b></td>
+      <td><b>🎁 Tags </b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React | Chapter 1 | Installation and First Steps</b></a></td>
+      <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it!</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/automate-with-webhooks"><b>Automate with webhooks</b></a></td>
+      <td>Webhooks notify you, another person or system when resources have changed by calling a given HTTP endpoint.</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/hello-world"><b>Hello world</b></a></td>
+      <td>Your very first content with Contentful, pulled in JSON format using the Content Delivery API.</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/static-sites-are-great"><b>Static sites are great</b></a></td>
+      <td>Worry less about security, caching, and talking to the server. Static sites are the new thing.</td>
+    </tr>	  
+  </tbody>
+</table>
+
+<br/>
+
 <h3>My Contributions</h3>
 
 <table>
