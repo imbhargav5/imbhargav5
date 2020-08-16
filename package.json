@@ -6,6 +6,8 @@
   "author": "imbhargav5 <imbhargav5@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "isomorphic-fetch": "^2.2.1",
     "mustache": "^4.0.1"
   }
 }

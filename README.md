@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/> Hi 👋, I'm Bhargav Ponnapalli</h1>
+<h1>👋 Hi, I'm Bhargav Ponnapalli <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/> </h1>
 <p>A Fullstack Web Developer from India.</p>
 <br/>
 <h3>Things I work with</h3>
@@ -37,6 +37,111 @@
 - 📫 How to reach me **imbhargav5@gmail.com**
 
 - ⚡ Fun fact **Chai is my fuel.**
+
+<h3>Top Contributions</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Project</b></td>
+      <td><b>🎁 Description </b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
+      <td>Build blazing fast, modern apps and websites with React</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/gatsbyjs/gatsby?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
+      <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/styled-components/styled-components?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/styled-components/styled-components?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview"><b>viraptor/reverse-interview</b></a></td>
+      <td>Questions to ask the company during your interview</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/viraptor/reverse-interview?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/viraptor/reverse-interview?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next"><b>i18next/react-i18next</b></a></td>
+      <td>Internationalization for react done right. Using the i18next i18n ecosystem.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/i18next/react-i18next?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/i18next/react-i18next?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;APIs-guru&#x2F;graphql-faker"><b>APIs-guru/graphql-faker</b></a></td>
+      <td>🎲 Mock or extend your GraphQL API with faked data. No coding required.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/APIs-guru/graphql-faker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/APIs-guru/graphql-faker?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
+      <td>Tourist Guide into your React Components</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/elrumordelaluz/reactour?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/elrumordelaluz/reactour?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
+      <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nodejs/nodejs.dev?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nodejs/nodejs.dev?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator"><b>rahuldkjain/github-profile-readme-generator</b></a></td>
+      <td>:rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
+      <td>Collection of React hooks ⚓ for everyone.  </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/rooks?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/rooks?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website"><b>kyma-project/website</b></a></td>
+      <td>Kyma landing page with blog, documentation and roadmap</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kyma-project/website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kyma-project/website?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter"><b>imbhargav5/react-universal-starter</b></a></td>
+      <td>React@16, react-router@4, redux and webpack@4 starter project</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/react-universal-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/react-universal-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image"><b>imbhargav5/react-lazy-progressive-image</b></a></td>
+      <td>React Progressive images with Lazy loading :zap:</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/react-lazy-progressive-image?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/react-lazy-progressive-image?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin"><b>imbhargav5/armin</b></a></td>
+      <td>Declarative state machines for React!</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/armin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/armin?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor"><b>imbhargav5/rehooks-visibility-sensor</b></a></td>
+      <td>Checks whether a Ref has scrolled into view or not.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/rehooks-visibility-sensor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/rehooks-visibility-sensor?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+    <tr>
+	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;dictionary-offline"><b>imbhargav5/dictionary-offline</b></a></td>
+      <td>A simple project that uses Service Workers and PouchDB for an offline experience.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imbhargav5/dictionary-offline?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imbhargav5/dictionary-offline?style=flat-square&labelColor=343b41"/></td>
+    </tr>	  
+  </tbody>
+</table>
 
 <p align="left">
 <a href="https://twitter.com/imbhargav5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imbhargav5" height="20" width="20" /></a>
