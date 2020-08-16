@@ -46,7 +46,6 @@
       <td><b>🎁 Project</b></td>
       <td><b>🎁 Description </b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>      
     </tr>
   </thead>
   <tbody>
@@ -54,10 +53,30 @@
     <tr>
 	    <td><a href="{{url}}"><b>{{owner.login}}/{{name}}</b></a></td>
       <td>{{{description}}}</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/{{owner.login}}/{{name}}?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/{{owner.login}}/{{name}}?style=flat-square&labelColor=343b41"/></td>
+      <td>{{stargazers.totalCount}}</td>
     </tr>	  
     {{/topContributions}}
+  </tbody>
+</table>
+
+<h4>Other Notable Contributions</h4>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Project</b></td>
+      <td><b>🎁 Description </b></td>
+      <td><b>⭐ Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    {{#notableContributions}}
+    <tr>
+	    <td><a href="{{url}}"><b>{{owner.login}}/{{name}}</b></a></td>
+      <td>{{{description}}}</td>
+      <td>{{stargazers.totalCount}}</td>
+    </tr>	  
+    {{/notableContributions}}
   </tbody>
 </table>
 
