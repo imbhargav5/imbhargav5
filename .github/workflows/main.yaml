@@ -30,11 +30,19 @@ jobs:
         uses: imbhargav5/actions/top-gh-contributions@master
         with:
           token: ${{ secrets.TOKEN }}
+      - name: Get Github summary
+        id: github-summary
+        uses: imbhargav5/actions/contentful-entry
+        with:
+          space: ${{ secrets.CONTENFUL_SPACE }}
+          access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
+          args: '"5dlinQLBEavklJ2oIvcbWz"'          
       - name: Generate README file
         run: node action.js
         env:
           TOP_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.top-contributions}}
           NOTABLE_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.notable-contributions}}
+          GITHUB_SUMMARY: ${{steps.github-summary.outputs.entry}}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
