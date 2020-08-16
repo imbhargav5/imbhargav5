@@ -1,15 +1,7 @@
 <h1>Hi, I'm Bhargav Ponnapalli <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
-<h3>Fullstack Web Engineer from India </h3>
 
-- 🔭 I’m currently working on [awesome frontend courses for everyone](https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA).
 
-- 👨‍💻 All of my projects are available [here](https://imbhargav5.com)
 
-- 💬 Ask me about **react, styled-components, docker, node and more**
-
-- 📫 How to reach me **imbhargav5@gmail.com**
-
-- ⚡ Fun fact **Chai is my fuel.**
 <h3>Things I work with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -61,7 +53,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46413</td>
+      <td>46414</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
@@ -81,7 +73,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
-      <td>1148</td>
+      <td>1151</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
@@ -115,7 +107,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator"><b>rahuldkjain/github-profile-readme-generator</b></a></td>
       <td>:rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.</td>
-      <td>865</td>
+      <td>868</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website"><b>kyma-project/website</b></a></td>
