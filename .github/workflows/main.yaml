@@ -6,7 +6,8 @@ on:
       - master
   schedule:
     - cron: '0 */3 * * *'
-
+  repository_dispatch:
+    types: [deploy-github-readme]
 jobs:
   build:
     runs-on: ubuntu-latest
