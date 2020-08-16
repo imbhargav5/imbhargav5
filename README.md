@@ -8,7 +8,7 @@
 <p> I'm a JavaScript Engineer from India 🇮🇳 and I work on React, Vue, Svelte and Node. I currently work as a Remote Sr. Frontend Engineer at <a href="https://blitz.gg" target="_blank">Blitz.gg</a>. Before that I worked at <a href="https://belong.co"  target="_blank">Belong </a>, trained developers at <a href="https://codementor.io/imbhargav5" target="_blank">Codementor.io</a> (where I hold a 5 star rating across 400+ online training sessions) and more. </p>
 
 <img 
-alt="codementor"      src="images.ctfassets.net/zcbonpo0bw5g/5PSfhdW7N0Vf8KNHVMw0z2/8367bc6678cdca6ce63a47cdfb100486/Screenshot_2020-08-16_at_6.00.52_PM.png"/> 
+alt="codementor"      src="https://images.ctfassets.net/zcbonpo0bw5g/5PSfhdW7N0Vf8KNHVMw0z2/8367bc6678cdca6ce63a47cdfb100486/Screenshot_2020-08-16_at_6.00.52_PM.png"/> 
 
 <p> I also teach frontend <a href="https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA"  target="_blank">Here </a> at take up freelance work from time to time. You can also reach me via my website <a href="https://imbhargav5.com" target="_blank">here<a/>.</p>
 <br/>
