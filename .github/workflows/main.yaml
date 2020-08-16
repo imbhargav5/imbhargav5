@@ -26,8 +26,8 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Get top github contributions
-        run: imbhargav5/actions/top-gh-contributions@master
         id: top-github-contributions
+        uses: imbhargav5/actions/top-gh-contributions@master
         with:
           token: ${{ secrets.TOKEN }}
       - name: Generate README file
