@@ -1,6 +1,15 @@
-<h1>👋 Hi, I'm Bhargav Ponnapalli <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/> </h1>
-<p>A Fullstack Web Developer from India.</p>
-<br/>
+<h1>Hi, I'm Bhargav Ponnapalli <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+<h3>Fullstack Web Engineer from India </h3>
+
+- 🔭 I’m currently working on [awesome frontend courses for everyone](https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA).
+
+- 👨‍💻 All of my projects are available [here](https://imbhargav5.com)
+
+- 💬 Ask me about **react, styled-components, docker, node and more**
+
+- 📫 How to reach me **imbhargav5@gmail.com**
+
+- ⚡ Fun fact **Chai is my fuel.**
 <h3>Things I work with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
