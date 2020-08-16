@@ -36,7 +36,7 @@ jobs:
         with:
           space: ${{ secrets.CONTENTFUL_SPACE_ID }}
           access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
-          args: "'5dlinQLBEavklJ2oIvcbWz'"         
+          args: "\"5dlinQLBEavklJ2oIvcbWz\""         
       - name: Generate README file
         run: node action.js
         env:
