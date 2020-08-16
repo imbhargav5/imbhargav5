@@ -90,14 +90,7 @@
 
 <h4>Other Contributions</h4>
 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview"><b>viraptor/reverse-interview</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next"><b>i18next/react-i18next</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator"><b>rahuldkjain/github-profile-readme-generator</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website"><b>kyma-project/website</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter"><b>imbhargav5/react-universal-starter</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image"><b>imbhargav5/react-lazy-progressive-image</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin"><b>imbhargav5/armin</b></a> 
-  <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor"><b>imbhargav5/rehooks-visibility-sensor</b></a> 
+ <a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview">viraptor/reverse-interview</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next">i18next/react-i18next</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator">rahuldkjain/github-profile-readme-generator</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website">kyma-project/website</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter">imbhargav5/react-universal-starter</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image">imbhargav5/react-lazy-progressive-image</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin">imbhargav5/armin</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor">imbhargav5/rehooks-visibility-sensor</a> , etc
 
 
 <p align="left">
