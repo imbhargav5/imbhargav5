@@ -10,7 +10,7 @@ async function generateReadMe({githubContributions, githubSummary}) {
   const DATA = {
       topContributions,
       notableContributions,
-      githubSummary
+      githubSummaryMarkdown: githubSummary.markdown || ""
   }
   const output = Mustache.render(template.toString(), DATA);
   await fs.writeFile('README.md', output);
