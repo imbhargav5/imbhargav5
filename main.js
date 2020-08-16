@@ -6,8 +6,6 @@ const partition = require('lodash.partition')
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-
-
 async function getTopContributions(token){
   try{
     const TOP_CONTRIBUTIONS_QUERY = `
@@ -61,9 +59,9 @@ async function getTopContributions(token){
   return [[], []];
 }
 
-async function generateReadMe(token) {
-  const [topContributions, notableContributions] = await getTopContributions(token);
+async function generateReadMe({githubContributions}) {  
   const template = await fs.readFile(MUSTACHE_MAIN_DIR);
+  const [topContributions, notableContributions] = githubContributions;
   const DATA = {
       topContributions,
       notableContributions
