@@ -8,7 +8,8 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 
 async function getTopContributions(token){
-  const TOP_CONTRIBUTIONS_QUERY = `
+  try{
+    const TOP_CONTRIBUTIONS_QUERY = `
     query{
       viewer {       
         name
@@ -51,7 +52,10 @@ async function getTopContributions(token){
         .slice(0,20);
     
     return filteredRepositories;
-
+  }catch(err){
+    console.log(err);
+  }
+  return [];
 }
 
 async function generateReadMe(token) {
