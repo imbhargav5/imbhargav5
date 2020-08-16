@@ -28,12 +28,11 @@ jobs:
       - name: Get top github contributions
         run: imbhargav5/actions/top-gh-contributions@master
         id: top-github-contributions
-        with: 
+        with:
           token: ${{ secrets.TOKEN }}
       - name: Generate README file
         run: node action.js
         env:
-          TOKEN: ${{ secrets.TOKEN }}
           TOP_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.top-contributions}}
           NOTABLE_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.notable-contributions}}
       - name: Push new README.md
