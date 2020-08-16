@@ -82,7 +82,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
       <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>30527</td>
+      <td>30528</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;APIs-guru&#x2F;graphql-faker"><b>APIs-guru/graphql-faker</b></a></td>
