@@ -15,7 +15,7 @@
 
 <p> I also teach frontend <a href="https://www.youtube.com/channel/UC4gKWR53xDzybMwm8Y61ukA"  target="_blank">Here </a> at take up freelance work from time to time. You can also reach me via my website <a href="https://imbhargav5.com" target="_blank">here<a/>.</p>
 <br/>
-<p>One of my favorite hobbies is playing cricket and having a nice cup of masala tea. **Chai is my fuel.** <p>
+<p>One of my favorite hobbies is playing cricket and having a nice cup of masala tea. <b>Chai is my fuel.</b> <p>
 <br/>
 <h3>Things I work with</h3>
 
