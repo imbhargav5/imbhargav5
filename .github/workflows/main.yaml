@@ -34,7 +34,7 @@ jobs:
         id: github-summary
         uses: imbhargav5/actions/contentful-entry@master
         with:
-          space: ${{ secrets.CONTENFUL_SPACE }}
+          space: ${{ secrets.CONTENTFUL_SPACE_ID }}
           access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
           args: "'5dlinQLBEavklJ2oIvcbWz'"         
       - name: Generate README file
