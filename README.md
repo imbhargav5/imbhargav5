@@ -55,7 +55,7 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React | Chapter 1 | Installation and First Steps</b></a></td>
+	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React Chapter One:  Installation and First Steps</b></a></td>
       <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it!</td>
     </tr>	  
   </tbody>
@@ -77,7 +77,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46428</td>
+      <td>46432</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
@@ -92,7 +92,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
-      <td>1162</td>
+      <td>1163</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
