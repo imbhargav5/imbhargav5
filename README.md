@@ -56,7 +56,7 @@
   <tbody>
     <tr>
 	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React Chapter One:  Installation and First Steps</b></a></td>
-      <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it!</td>
+      <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it! </td>
     </tr>	  
   </tbody>
 </table>
@@ -77,12 +77,12 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46443</td>
+      <td>46447</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
       <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>30543</td>
+      <td>30544</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
@@ -97,7 +97,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Collection of React hooks ⚓ for everyone.  </td>
-      <td>596</td>
+      <td>599</td>
     </tr>	  
   </tbody>
 </table>
