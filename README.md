@@ -77,22 +77,22 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46473</td>
+      <td>46475</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
       <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>30556</td>
+      <td>30558</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
       <td>Tourist Guide into your React Components</td>
-      <td>1739</td>
+      <td>1740</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
-      <td>1172</td>
+      <td>1171</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
