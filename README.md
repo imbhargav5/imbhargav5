@@ -92,7 +92,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
       <td>Tourist Guide into your React Components</td>
-      <td>1751</td>
+      <td>1752</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
