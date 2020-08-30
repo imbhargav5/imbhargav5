@@ -55,6 +55,10 @@
   </thead>
   <tbody>
     <tr>
+	    <td><a href="https://imbhargav5.com/blog/css-injs-secret-sauce-understanding-tagged-template-literals"><b>CSS-inJS secret sauce: Understanding Tagged template literals</b></a></td>
+      <td>Tagged template literals make modern CSS-in-JS possible.</td>
+    </tr>	  
+    <tr>
 	    <td><a href="https://imbhargav5.com/blog/understanding-the-styled-components-css-prop"><b>Understanding the styled-components CSS prop</b></a></td>
       <td>The CSS prop is one of the most powerful features of styled-components.
 </td>
@@ -82,7 +86,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46621</td>
+      <td>46626</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
@@ -102,7 +106,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Collection of React hooks ⚓ for everyone.  </td>
-      <td>626</td>
+      <td>627</td>
     </tr>	  
   </tbody>
 </table>
