@@ -55,6 +55,10 @@
   </thead>
   <tbody>
     <tr>
+	    <td><a href="https://imbhargav5.com/blog/chapter-2-introduction-to-next-js-or-delightful-react"><b>Chapter 2. Introduction to Next.js | Delightful React</b></a></td>
+      <td>Next.js is one of the most popular React.js frameworks out there.</td>
+    </tr>	  
+    <tr>
 	    <td><a href="https://imbhargav5.com/blog/chapter-1-delightful-introduction-to-react"><b>Chapter 1: Introduction to React  | Delightful React </b></a></td>
       <td>React is a declarative JS framework to build performant websites.</td>
     </tr>	  
