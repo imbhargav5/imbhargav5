@@ -94,12 +94,12 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>47105</td>
+      <td>47106</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
       <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>31027</td>
+      <td>31028</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
@@ -109,7 +109,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
-      <td>1252</td>
+      <td>1253</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
