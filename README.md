@@ -99,7 +99,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
       <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>32022</td>
+      <td>32023</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
@@ -109,7 +109,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Essential hooks ⚓  to super charge your components!</td>
-      <td>746</td>
+      <td>748</td>
     </tr>	  
   </tbody>
 </table>
