@@ -99,12 +99,12 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.</td>
-      <td>1376</td>
+      <td>1377</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Essential hooks ⚓  to super charge your components!</td>
-      <td>771</td>
+      <td>772</td>
     </tr>	  
   </tbody>
 </table>
