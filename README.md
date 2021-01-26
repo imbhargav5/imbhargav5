@@ -94,12 +94,12 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>48779</td>
+      <td>48780</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
       <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.</td>
-      <td>1392</td>
+      <td>1393</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
