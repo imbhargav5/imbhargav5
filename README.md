@@ -46,42 +46,38 @@
 
 <h3>Most Recent Blogposts</h3>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Cover</b></td>
-      <td><b>Title</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612122933376&#x2F;C-xdAI3qd.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>#15 Running side-effects with useEffect - Delightful React</b></a></td>
-    </tr>	  
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612000704869&#x2F;kyv1oNaCq.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>#14 Why should you really use a unique key prop? - Delightful React</b></a></td>
-    </tr>	  
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611851680462&#x2F;HeRZ6_omY.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>#13 How do we use Inputs in React? - Delightful React</b></a></td>
-    </tr>	  
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611732046918&#x2F;2i7MBUzkY.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>My writing journey on Hashnode and my top 5 features in Hashnode</b></a></td>
-    </tr>	  
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611674253505&#x2F;3wqK8Pd9o.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>#12 Building a Tabs component - Delightful React</b></a></td>
-    </tr>	  
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611591852713&#x2F;AHrsPiW7_.png" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>A bit more about  props, state and data flow - Delightful React</b></a></td>
-    </tr>	  
-  </tbody>
-</table>
-
-<br/>
+<div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612122933376&#x2F;C-xdAI3qd.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>#15 Running side-effects with useEffect - Delightful React</b></a>
+      </hr/>	  
+    </div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612000704869&#x2F;kyv1oNaCq.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>#14 Why should you really use a unique key prop? - Delightful React</b></a>
+      </hr/>	  
+    </div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611851680462&#x2F;HeRZ6_omY.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>#13 How do we use Inputs in React? - Delightful React</b></a>
+      </hr/>	  
+    </div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611732046918&#x2F;2i7MBUzkY.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>My writing journey on Hashnode and my top 5 features in Hashnode</b></a>
+      </hr/>	  
+    </div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611674253505&#x2F;3wqK8Pd9o.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>#12 Building a Tabs component - Delightful React</b></a>
+      </hr/>	  
+    </div>
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611591852713&#x2F;AHrsPiW7_.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>A bit more about  props, state and data flow - Delightful React</b></a>
+      </hr/>	  
+    </div>
+</div>
 
 <h3>My Contributions</h3>
 
@@ -97,7 +93,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>48857</td>
+      <td>48858</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
@@ -107,7 +103,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Essential hooks ⚓  to super charge your components!</td>
-      <td>820</td>
+      <td>821</td>
     </tr>	  
   </tbody>
 </table>
