@@ -51,52 +51,32 @@
     <tr border: none;>
       <td><b>Cover</b></td>
       <td><b>Title</b></td>
-      <td><b>Brief</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612122933376&#x2F;C-xdAI3qd.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>#15 Running side-effects with useEffect - Delightful React</b></a></td>
-      <td>When something changes in a component, there are things you might want to do.  
-
-For eg, a user types text into an autocomplete search input, then you might want to fetch autocomplete suggestions by making a call to server and fetch suggestions. 
-Som...</td>
     </tr>	  
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612000704869&#x2F;kyv1oNaCq.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>#14 Why should you really use a unique key prop? - Delightful React</b></a></td>
-      <td>The key prop being unique is very important for rendering list elements in React. Is it just enough if it&#39;s unique? Not really.
-
-We talked about it briefly but lets see how we can thoroughly mess up our components if we use the key prop incorrectly. ...</td>
     </tr>	  
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611851680462&#x2F;HeRZ6_omY.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>#13 How do we use Inputs in React? - Delightful React</b></a></td>
-      <td>Handling form inputs is a very important part of building user interfaces and React offers a few options for inputs. 
-
-In this chapter, we will learn how to handle inputs in React and use the input to filter a list.
-*Note: This article is a part of t...</td>
     </tr>	  
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611732046918&#x2F;2i7MBUzkY.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>My writing journey on Hashnode and my top 5 features in Hashnode</b></a></td>
-      <td>Hey everyone. 
-I have been using Hashnode for about the 2 weeks now and it is almost indistinguishable from the app in 2018. This one is simply one of the most incredible tools I used. Let me tell you a small story before I talk about my favourite fe...</td>
     </tr>	  
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611674253505&#x2F;3wqK8Pd9o.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>#12 Building a Tabs component - Delightful React</b></a></td>
-      <td>Now that we know enough about useState and state variables, let us pick up the pace now and build a Tabs component that shows different content based on the selected tab. 
-
-By the time we are done with this chapter, we will have built a nice Tabs com...</td>
     </tr>	  
     <tr>
       <td><a href="https://blog.imbhargav5.com"><img src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611591852713&#x2F;AHrsPiW7_.png" /></a></td>
 	    <td><a href="https://blog.imbhargav5.com"><b>A bit more about  props, state and data flow - Delightful React</b></a></td>
-      <td>Props and state make React components the powerhouses that they are. We have finished 10 chapters in the Delightful React book. It&#39;s time to take a step back and nail down data-flow in React and understand how React works as whole.  
-
-*Note: This art...</td>
     </tr>	  
   </tbody>
 </table>
