@@ -44,6 +44,10 @@
 
 </p>
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 <h3>Most Recent Blogposts</h3>
 
 <table>
@@ -55,8 +59,25 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React | Chapter 1 | Installation and First Steps</b></a></td>
-      <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it!</td>
+	    <td><a href="https://imbhargav5.com/blog/chapter-2-introduction-to-next-js-or-delightful-react"><b>Chapter 2. Introduction to Next.js | Delightful React</b></a></td>
+      <td>Next.js is one of the most popular React.js frameworks out there.</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/chapter-1-delightful-introduction-to-react"><b>Chapter 1: Introduction to React  | Delightful React </b></a></td>
+      <td>React is a declarative JS framework to build performant websites.</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/css-injs-secret-sauce-understanding-tagged-template-literals"><b>CSS-inJS secret sauce: Understanding Tagged template literals</b></a></td>
+      <td>Tagged template literals make modern CSS-in-JS possible.</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/understanding-the-styled-components-css-prop"><b>Understanding the styled-components CSS prop</b></a></td>
+      <td>The CSS prop is one of the most powerful features of styled-components.
+</td>
+    </tr>	  
+    <tr>
+	    <td><a href="https://imbhargav5.com/blog/learning-react-or-chapter-1-or-installation-and-first-steps"><b>Learning React Chapter One:  Installation and First Steps</b></a></td>
+      <td>React is an exceptional web development tool. It manages to do so much with little code because it is so good and hiding the details from the developers and let them think only about logic. In this set of posts, let’s take a tour of React and see what we can learn from it! </td>
     </tr>	  
   </tbody>
 </table>
@@ -77,39 +98,24 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>46422</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;styled-components&#x2F;styled-components"><b>styled-components/styled-components</b></a></td>
-      <td>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</td>
-      <td>30527</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;APIs-guru&#x2F;graphql-faker"><b>APIs-guru/graphql-faker</b></a></td>
-      <td>🎲 Mock or extend your GraphQL API with faked data. No coding required.</td>
-      <td>1889</td>
-    </tr>	  
-    <tr>
-	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;elrumordelaluz&#x2F;reactour"><b>elrumordelaluz/reactour</b></a></td>
-      <td>Tourist Guide into your React Components</td>
-      <td>1725</td>
+      <td>48854</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
-      <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.</td>
-      <td>1154</td>
+      <td>A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.</td>
+      <td>1396</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
-      <td>Collection of React hooks ⚓ for everyone.  </td>
-      <td>589</td>
+      <td>Essential hooks ⚓  to super charge your components!</td>
+      <td>820</td>
     </tr>	  
   </tbody>
 </table>
 
 <h4>Other Contributions</h4>
 
- <a href="https:&#x2F;&#x2F;github.com&#x2F;viraptor&#x2F;reverse-interview">viraptor/reverse-interview</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;i18next&#x2F;react-i18next">i18next/react-i18next</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator">rahuldkjain/github-profile-readme-generator</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;kyma-project&#x2F;website">kyma-project/website</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter">imbhargav5/react-universal-starter</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image">imbhargav5/react-lazy-progressive-image</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin">imbhargav5/armin</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor">imbhargav5/rehooks-visibility-sensor</a> , etc
+ <a href="https:&#x2F;&#x2F;github.com&#x2F;rahuldkjain&#x2F;github-profile-readme-generator">rahuldkjain/github-profile-readme-generator</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;uiwjs&#x2F;react-markdown-editor">uiwjs/react-markdown-editor</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-lazy-progressive-image">imbhargav5/react-lazy-progressive-image</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;react-universal-starter">imbhargav5/react-universal-starter</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;armin">imbhargav5/armin</a> , <a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rehooks-visibility-sensor">imbhargav5/rehooks-visibility-sensor</a> , etc
 
 
 <p align="left">
