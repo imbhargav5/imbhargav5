@@ -14,12 +14,13 @@
     </tr>
   </thead>
   <tbody>
-    {{#mostRecentBlogPosts}}
+    {{#hashnodePosts}}
     <tr>
-	    <td><a href="https://imbhargav5.com/blog/{{slug}}"><b>{{title}}</b></a></td>
-      <td>{{description}}</td>
+      <td><a href="https://blog.imbhargav5.com"><img src="{{coverImage}}" /></a></td>
+	    <td><a href="https://blog.imbhargav5.com"><b>{{title}}</b></a></td>
+      <td>{{brief}}</td>
     </tr>	  
-    {{/mostRecentBlogPosts}}
+    {{/hashnodePosts}}
   </tbody>
 </table>
 
