@@ -45,13 +45,19 @@ jobs:
           space: ${{ secrets.CONTENTFUL_SPACE_ID }}
           access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
           args: "{\"content_type\":\"blogPost\",\"limit\":5}"
+      - name: Get recent blog posts from hashnode
+        id: hashnode-recent-blog-posts
+        uses: imbhargav5/hashnode-user-with-posts-json@master
+        with:
+          username: "imbhargav5"               
       - name: Generate README file
         run: node action.js
         env:
           TOP_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.top-contributions}}
           NOTABLE_CONTRIBUTIONS: ${{steps.top-github-contributions.outputs.notable-contributions}}
           GITHUB_SUMMARY: ${{steps.github-summary.outputs.entry}}
-          BLOG_POSTS: ${{steps.recent-blog-posts.outputs.entries}}
+          BLOG_POSTS: ${{steps.recent-blog-posts.outputs.entries}}     
+          HASHNODE_PROFILE: ${{steps.hashnode-recent-blog-posts.outputs.data}}     
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
