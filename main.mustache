@@ -4,24 +4,15 @@
 
 <h3>Most Recent Blogposts</h3>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Cover</b></td>
-      <td><b>Title</b></td>
-    </tr>
-  </thead>
-  <tbody>
+<div>
     {{#hashnodePosts}}
-    <tr>
-      <td><a href="https://blog.imbhargav5.com"><img src="{{coverImage}}" /></a></td>
-	    <td><a href="https://blog.imbhargav5.com"><b>{{title}}</b></a></td>
-    </tr>	  
+    <div>
+      <a href="https://blog.imbhargav5.com"><img width="180" src="{{coverImage}}" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>{{title}}</b></a>
+      </hr/>	  
+    </div>
     {{/hashnodePosts}}
-  </tbody>
-</table>
-
-<br/>
+</div>
 
 <h3>My Contributions</h3>
 
