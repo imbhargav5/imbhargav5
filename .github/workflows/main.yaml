@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
   repository_dispatch:
     types: [deploy-github-readme]
 jobs:
