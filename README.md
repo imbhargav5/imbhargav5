@@ -48,6 +48,15 @@
 
 <div>
     <div>
+      <a href="https://blog.imbhargav5.com"><img align="right" width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612290226246&#x2F;AIZ7wGTrs.png" /></a><br/>
+	    <a href="https://blog.imbhargav5.com"><b>&nbsp &nbspHow I automated my Github Readme with Hashnode articles</b></a>
+      <br/>
+      <br/>      
+      <br/>
+      <br/>      
+      <hr/>   
+    </div>
+    <div>
       <a href="https://blog.imbhargav5.com"><img align="right" width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1612122933376&#x2F;C-xdAI3qd.png" /></a><br/>
 	    <a href="https://blog.imbhargav5.com"><b>&nbsp &nbsp#15 Running side-effects with useEffect - Delightful React</b></a>
       <br/>
@@ -92,15 +101,6 @@
       <br/>      
       <hr/>   
     </div>
-    <div>
-      <a href="https://blog.imbhargav5.com"><img align="right" width="180" src="https:&#x2F;&#x2F;cdn.hashnode.com&#x2F;res&#x2F;hashnode&#x2F;image&#x2F;upload&#x2F;v1611591852713&#x2F;AHrsPiW7_.png" /></a><br/>
-	    <a href="https://blog.imbhargav5.com"><b>&nbsp &nbspA bit more about  props, state and data flow - Delightful React</b></a>
-      <br/>
-      <br/>      
-      <br/>
-      <br/>      
-      <hr/>   
-    </div>
 </div>
 
 <h3>My Contributions</h3>
@@ -117,7 +117,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;gatsbyjs&#x2F;gatsby"><b>gatsbyjs/gatsby</b></a></td>
       <td>Build blazing fast, modern apps and websites with React</td>
-      <td>48862</td>
+      <td>48866</td>
     </tr>	  
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;nodejs&#x2F;nodejs.dev"><b>nodejs/nodejs.dev</b></a></td>
@@ -127,7 +127,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Essential hooks ⚓  to super charge your components!</td>
-      <td>822</td>
+      <td>824</td>
     </tr>	  
   </tbody>
 </table>
