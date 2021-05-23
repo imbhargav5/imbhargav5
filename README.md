@@ -123,7 +123,7 @@
     <tr>
 	    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;imbhargav5&#x2F;rooks"><b>imbhargav5/rooks</b></a></td>
       <td>Essential hooks ⚓  to super charge your components!</td>
-      <td>1070</td>
+      <td>1071</td>
     </tr>	  
   </tbody>
 </table>
