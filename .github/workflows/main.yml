@@ -1,6 +1,7 @@
 name: README build
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -18,7 +19,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: '13.x'
+          node-version: '18.x'
       - name: cache
         uses: actions/cache@v1
         with:
