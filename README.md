@@ -36,7 +36,7 @@
 <h3>Recognition</h3>
 
 <ul>
-  <li>Trained developers at <a href="https://codementor.io/imbhargav5" target="_blank">Codementor.io</a> where I hold a 5 star rating across 400+ online training sessions.</li>
+  <li>Trained developers at <a href="https://codementor.io/@imbhargav5" target="_blank">Codementor.io</a> where I hold a 5 star rating across 400+ online training sessions.</li>
   <li>Core contributor to <a href="https://github.com/styled-components/styled-components" target="_blank">styled-components</a>.</li>
 </ul>
 
