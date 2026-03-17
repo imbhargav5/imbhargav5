@@ -30,6 +30,10 @@
       <td><a href="https://github.com/imbhargav5/rooks"><b>rooks</b></a></td>
       <td>Collection of awesome React hooks to super charge your components.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/imbhargav5/q8t"><b>q8t</b></a></td>
+      <td>Social media poster.</td>
+    </tr>
   </tbody>
 </table>
 
